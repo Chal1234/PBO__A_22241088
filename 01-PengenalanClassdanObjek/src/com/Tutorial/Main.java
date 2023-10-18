@@ -5,8 +5,6 @@ class Mahasiswa {
     String NIM;
     String Prodi;
 }
-
-
 public class Main {
     public static void main(String[] args) {
         // instansiasi pembuatan objek`
